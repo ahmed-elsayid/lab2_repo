@@ -1,2 +1,10 @@
 # lab2_repo
-!["download.py"](download.jpg)
+!["1"](Screenshot%202026-03-02%20132219.png)
+!["2"](Screenshot%202026-03-02%20133155.png)
+!["3"](Screenshot%202026-03-02%20133624.png)
+!["4"](Screenshot%202026-03-02%20134014.png)
+!["5"](Screenshot%202026-03-02%20134627.png)
+!["6"](Screenshot%202026-03-02%20134909.png)
+!["7"](Screenshot%202026-03-02%20135337.png)
+!["8"](Screenshot%202026-03-02%20135435.png)
+!["9"](Screenshot%202026-03-02%20140347.png)
